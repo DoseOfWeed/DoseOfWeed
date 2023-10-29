@@ -17,7 +17,7 @@
 
 - 🔭 B.Eng
   
-- 🌱 I’m currently Busy!
+- 🌱 I’m currently On!
   
 - 👯 I’m looking to collaborate on FiveM Projects
   
