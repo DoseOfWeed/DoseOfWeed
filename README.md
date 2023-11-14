@@ -26,8 +26,8 @@
 <br/>
 
     
- <!--- Skills --->        
-<h2> Fully 
+ <!--- Some Skills --->        
+<h2> Full Stack Dev
 </h2>
 <div align="center">
 <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
