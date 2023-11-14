@@ -19,7 +19,7 @@
   
 - 🌱 I’m currently On!
   
-- 👯 I’m looking to collaborate on FiveM Projects
+- 👯 This is a public repository that includes content related to FullStack Development. You can find dsa codes, various projects written in different languages inside this repository.
   
 
 
