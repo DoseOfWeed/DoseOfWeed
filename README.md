@@ -12,7 +12,7 @@
 <h2> About Me <img src="https://i.ibb.co/9N3snxg/DOW.jpg" width="24px" style="max-width:100%;"></h2>
 
 <a target="_blank">
-   <img align="right" height="250" width= "280px" alt="GIF" src="https://imgur.com/vNWeiQN" />
+   <img align="right" height="250" width= "280px" alt="" src="https://i.ibb.co/9N3snxg/DOW.jpg" />
 </a>
 
 - 🔭 B.Eng
