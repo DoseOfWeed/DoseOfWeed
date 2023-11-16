@@ -44,6 +44,7 @@
 <code><img src="[https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white](https://img.shields.io/badge/linux-blue)" alt="Linux"></code>
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="sql"></code>
-<code><img src="[https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="github"></code>
+    <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></code>
+</code>
 </div>
 
