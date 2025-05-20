@@ -5,7 +5,7 @@
   </a>
 </h1>
       
-<p align='center'>Hey, I'm Mystic! Coding from 📍 Enfield, London 🚀</p>
+<p align='center'>Hey, I'm DoseOfWeed!</p>
 
 <!--- About You --->   
 <a target="_blank">
